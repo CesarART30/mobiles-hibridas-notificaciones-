@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976616640878",
+    "project_id": "inventrex-basica",
+    "storage_bucket": "inventrex-basica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976616640878:android:c0c1d4b369229227c3b17f",
+        "android_client_info": {
+          "package_name": "com.inventrex.basica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcc0Hw-qjySoYUQIWI9cdpgH6gAEDA0CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
